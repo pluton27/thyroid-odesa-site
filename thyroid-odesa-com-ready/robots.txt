@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thyroid-odesa.com/sitemap.xml
+
+# Уникаємо дублювання контенту
+Disallow: /index-standalone.html
+Disallow: /README.md
